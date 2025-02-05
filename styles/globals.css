@@ -25,3 +25,16 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.text-\[\#22c55e\] {
+  --tw-text-opacity: 1;
+  color: rgb(34 197 94 / var(--tw-text-opacity, 1));
+}
+.text-\[\#00a7b9\] {
+  --tw-text-opacity: 1;
+  color: rgb(0 167 185 / var(--tw-text-opacity, 1));
+}
+.text-\[\#0079d3\] {
+  --tw-text-opacity: 1;
+  color: rgb(0 121 211 / var(--tw-text-opacity, 1));
+}
