@@ -1,4 +1,8 @@
-## Example app using MongoDB
+# Dynamic Dashboard Widget
+
+This repository contains a take-home coding project for building a dynamic, interactive dashboard widget using Next.js, TypeScript, Tailwind CSS, and MongoDB. The project demonstrates both front-end data visualization and back-end API integration.
+
+## Starting point: NextJS example using MongoDB
 
 [MongoDB](https://www.mongodb.com/) is a general purpose, document-based, distributed database built for modern application developers and for the cloud era. This example will show you how to connect to and use MongoDB as your backend for your Next.js app.
 
